@@ -1,0 +1,182 @@
+/* Define the initial and toggled colors */
+.ColorSquare {
+    border: 4px 4px solid white;
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    cursor: pointer;
+    transition: background-color 0.5s ease;
+    box-shadow: 4px 4px grey;
+    
+}
+
+.changeColor1 {
+    background-color: red;
+}
+
+.changeColor2 {
+    background-color: pink;
+}
+.changeColor3 {
+    background-color: violet;
+}
+.changeColor4 {
+    background-color: orange;
+}
+.changeColor5 {
+    background-color: green;
+}
+.changeColor6 {
+    background-color: yellow;
+}
+.changeColor7 {
+    background-color: purple;
+}
+
+/* Avatar styles */
+.avatar-image {
+    max-height: 150px;
+    width: auto;
+    border-radius: 50%; /* Makes the avatar circular */
+    border: 3px solid #ddd;
+}
+
+/* Speech bubble styles */
+.speech-bubble {
+    position: absolute;
+    bottom: -50px; /* Moves the speech bubble below the avatar */
+    left: 100%;
+    transform: translateX(-50%);
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    max-width:500px;
+    width: 100%;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+.speech-bubble::after {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent #f1f1f1 transparent;
+}
+
+#speech-text {
+    font-family: "Roboto Mono", monospace; /* Add the font-family here */
+    font-size: 14px;
+    color: lime;
+    display: block;
+    font-weight: 600; /* Set the font weight directly */
+    font-style: normal; /* Add normal style */
+}
+
+/* Adjust the margin to cover the card */
+.avatar-container {
+    margin-top: -80px;
+    z-index: 2;
+    position: relative;
+    
+}
+.avatar-container img{
+    cursor: pointer;
+}
+
+#colorCard {
+    z-index: 1;
+    position: relative;
+    margin-top: 100px;
+}
+.navbar {
+    background-color: rgb(117, 14, 212) !important; /* Use !important if necessary */
+}
+.lobster-regular {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  #logo{
+    font-family: "Lobster Two", sans-serif;
+    color: beige;
+    font-size: 40px;
+    text-shadow: 3px 3px 5px magenta;
+  }
+  body {
+    background-image: url('ColorBG.webp'); /* Update this path to your selected background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.lobster-two-regular {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .lobster-two-bold {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .lobster-two-regular-italic {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .lobster-two-bold-italic {
+    font-family: "Lobster Two", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-mono-bubble {
+    font-family: "Roboto Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 600; /* Use a numeric value directly */
+    font-style: normal;
+  }
+  .sixtyfour-convergence-text-style {
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0,
+      "XELA" 0,
+      "YELA" 0;
+  }
+  .avatar img{
+    animation: imgg 2s ease-in-out infinite;
+    animation-delay: 2s;
+  }
+  @keyframes imgg{
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-22px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}
+.photoDesc{
+    font-family: "Sixtyfour Convergence", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "BLED" 0,
+      "SCAN" 0,
+      "XELA" 0,
+      "YELA" 0;
+}
