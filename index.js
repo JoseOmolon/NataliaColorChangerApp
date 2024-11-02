@@ -61,14 +61,14 @@ function typeText() {
   if (index < message.length) {
     speechText.textContent += message.charAt(index);  // Add one character at a time
     index++;
-    setTimeout(typeText, 100);  // Adjust typing speed here
+    setTimeout(typeText, 20);  // Adjust typing speed here
   } else {
     setTimeout(() => {
       speechBubble.style.opacity = 0;  // Fade out after finishing
       setTimeout(() => {
         speechBubble.style.display = 'none';  // Hide the bubble after fading out
-      }, 1000);  // Delay before hiding
-    }, 2000);  // Delay before fading out
+      }, 30000);  // Delay before hiding
+    }, 30000);  // Delay before fading out
   }
 }
 
