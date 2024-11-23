@@ -27,3 +27,5 @@ NataliaColorChangerApp/ │
 - **HTML**: For structuring the webpage.
 - **CSS**: For styling the app.
 - **JavaScript**: For implementing dynamic background changes.
+
+## 🤝 Contributing
