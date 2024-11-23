@@ -25,3 +25,4 @@ NataliaColorChangerApp/ │
 ## 🛠️ Built With
 
 - **HTML**: For structuring the webpage.
+- **CSS**: For styling the app.
