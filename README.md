@@ -29,3 +29,6 @@ NataliaColorChangerApp/ │
 - **JavaScript**: For implementing dynamic background changes.
 
 ## 🤝 Contributing
+
+Contributions are welcome! If you have ideas for improving the app, feel free to fork the repository and submit a pull request.
+
