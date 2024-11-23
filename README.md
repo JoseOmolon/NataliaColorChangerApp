@@ -16,3 +16,8 @@ Check out the app live at:
 [**Natalia Color Changer App**](https://joseomolon.github.io/NataliaColorChangerApp/)
 
 ## 📁 Project Structure
+
+NataliaColorChangerApp/ │ 
+                        ├── index.html # Main HTML file 
+                        ├── style.css # Styling for the app
+                        └── script.js # JavaScript for interactive functionality
