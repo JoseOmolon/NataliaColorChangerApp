@@ -23,3 +23,5 @@ NataliaColorChangerApp/ │
                         └── script.js # JavaScript for interactive functionality
 
 ## 🛠️ Built With
+
+- **HTML**: For structuring the webpage.
