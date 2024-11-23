@@ -14,3 +14,5 @@ Welcome to the **Natalia Color Changer App**! This is a simple, interactive web 
 
 Check out the app live at:  
 [**Natalia Color Changer App**](https://joseomolon.github.io/NataliaColorChangerApp/)
+
+## 📁 Project Structure
