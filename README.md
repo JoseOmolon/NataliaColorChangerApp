@@ -42,3 +42,5 @@ Contributions are welcome! If you have ideas for improving the app, feel free to
 
 **Jose Omolon**  
 
+## 📜 License
+
