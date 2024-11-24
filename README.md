@@ -40,3 +40,5 @@ Contributions are welcome! If you have ideas for improving the app, feel free to
 
 ## 🖊️ Author
 
+**Jose Omolon**  
+
