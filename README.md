@@ -47,4 +47,5 @@ Contributions are welcome! If you have ideas for improving the app, feel free to
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
+Enjoy using the Natalia Color Changer App! 🌈
 
