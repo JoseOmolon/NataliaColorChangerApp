@@ -35,3 +35,4 @@ Contributions are welcome! If you have ideas for improving the app, feel free to
 ## 💡 Ideas for Improvement
 
 - Add more color schemes (e.g., gradients, themes).
+- Implement a feature to save favorite colors.
