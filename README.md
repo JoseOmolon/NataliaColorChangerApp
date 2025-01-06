@@ -13,7 +13,7 @@ Welcome to the **Natalia Color Changer App**! This is a simple, interactive web 
 
 ## 🚀 Live Demo
 
-1
+
 
 Check out the app live at:  
 [**Natalia Color Changer App**](https://joseomolon.github.io/NataliaColorChangerApp/)
