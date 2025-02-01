@@ -4,7 +4,7 @@ Welcome to the **Natalia Color Changer App**! This is a simple, interactive web 
 
 ![Natalia Color Changer App Screenshot](NataliaColorApp.png) 
 
-## ✨ Features 123
+## ✨ Features 12
 
 
 - **Dynamic Backgrounds**: Change the background color of the webpage with a single click.
