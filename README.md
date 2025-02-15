@@ -4,7 +4,7 @@ Welcome to the **Natalia Color Changer App**! This is a simple, interactive web 
 
 ![Natalia Color Changer App Screenshot](NataliaColorApp.png) 
 
-## ✨ Features 1 2 
+## ✨ Features 1 
 
 
 
